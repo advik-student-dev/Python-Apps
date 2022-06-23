@@ -1,0 +1,72 @@
+Notes
+
+1. Data Types
+    Numeric:-
+        (a) Integers
+        (b) Floats
+        (c) Complex
+    Sequence:-
+        (a) List
+        (b) Tuple
+        (c) Range
+    Mapping:-
+        Dict
+    Text Type:-
+        String
+
+2. Loops
+      (a) For-loops
+      (b) While loops
+
+3. Operators
+     Logical:-
+         (a) And
+         (b) Or
+         (c) Not
+     Arithmetic:-
+         (a) + (Addition)
+         (b) - (Subtraction)
+         (c) * (Multiplication)
+         (d) / (Division)
+         (e) % (Modulus - Gets the remainder)
+         (f) ** (Exponentiation)
+         (g) // (Floor division - Rounds down the Float num
+                 to an Integer num)
+     Assignment:-
+         (a) =
+         (b) +=
+         (c) -=
+         (d) *=
+         (e) /=
+         (f) %=
+         (g) //=
+         (h) **=
+         (i) &=
+         (j) |=
+         (k) ^=
+         (l) >>=
+         (m) <<=
+     Comparison:-
+         (a) ==
+         (b) !=
+         (c) <
+         (d) >
+         (e) <=
+         (f) >=
+     Identity:-
+         (a) is [Returns True if both variables
+          are the same object]
+         (b) is not [Returns True if both
+         variables are not the same object]
+     Membership:-
+         (a) in [Returns True if a sequence
+         with the specified value is present
+         in the object]
+         (b) not in [not in	Returns True
+         if a sequence with the specified
+         value is not present in the object]
+4. Hard to remember (https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+    (a) Packaging in Python
+    (b) Modules
+    (c) Classes
+    (d) Pathlib
