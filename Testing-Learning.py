@@ -71,6 +71,8 @@ cat1.walk()
 cat1.meow()
 """
 
+# Path
+
 """
 path = Path()
 for file in path.glob('*'):
@@ -78,6 +80,8 @@ for file in path.glob('*'):
 for file in path.glob('*.*'):
     print(f"{file} path.glob('*.*')")
 """
+
+#
 
 """
 a = [1, 2, 3, 4, 5, 6]
@@ -89,7 +93,6 @@ b = [i*i for i in a]# Squares each element in the referenced list
 print(a)
 print(b)
 """
-
 
 
 
