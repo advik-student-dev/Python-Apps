@@ -6,7 +6,7 @@
 import random
 
 if __name__ == "__main__":
-    print("Program Starts from here")
+    print("")
 
 # Constant Strings because they are used a lot
 BRWINNERNAMESTR = "Bracket Winner Name: "
