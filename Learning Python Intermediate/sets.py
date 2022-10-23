@@ -51,7 +51,7 @@ myset4.clear()
 print(myset4)  # Clears the set of its elements
 """
 
-print(myset4.pop(), "\n")  # Removes an item and removes it
+print(myset4.pop(), "\n")  # Removes an item 
 print(myset4, ".pop()\n")
 
 for x in myset4:
@@ -89,5 +89,5 @@ print(I_o_e, "Intersection of odds and evens (doesn't happen)\n")
 I_o_p = odds.intersection(primes)
 print(I_o_p, "Intersection of odds and primes\n")
 
-I_o_e = evens.intersection(primes)
-print(I_o_p, "Intersection of evens and primes\n")
+I_e_p = evens.intersection(primes)
+print(I_e_p, "Intersection of evens and primes\n")
